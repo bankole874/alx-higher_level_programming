@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+"""
+Task01-square
+defines class Square
+"""
+
+
 class Square:
 
     """Class Square that defines a square object
