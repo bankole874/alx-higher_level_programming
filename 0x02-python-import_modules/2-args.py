@@ -6,7 +6,7 @@ if __name__ == "__main__":
         # for i in range(len(sys.argv)-1):
         #     if (i > 0):
         #         print(f"{sys.argv[i]} ", end='')
-        if (len(sys.argv) == 1):
+        if (len(sys.argv) == 2):
             print(f"{len(sys.argv)-1} argument:")
         else:
             print(f"{len(sys.argv)-1} arguments:")
