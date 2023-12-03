@@ -1,9 +1,9 @@
 
 # 🦾 0x03. Python - Data Structures: Lists, Tuples
 
-- Lists
-- Data structures (until 5.3. Tuples and Sequences included)
-- Learn to Program 6 : Lists
+- [Lists](https://intranet.alxswe.com/rltoken/VarQbHxfmbnpGnaGp3Nb_A)
+- [Data structures](https://intranet.alxswe.com/rltoken/BX2_CuHj1sq4eYGiXbCYSg) (until 5.3. Tuples and Sequences included)
+- [Learn to Program 6 : Lists](https://intranet.alxswe.com/rltoken/BX2_CuHj1sq4eYGiXbCYSg)
 
 ## 🛠 To Learn
 - Why Python programming is awesome
