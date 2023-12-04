@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 def no_c(my_string):
-    new_list = list(my_string)
-    for i, e in enumerate(new_list):
-        if (e == "c" or e == "C"):
-            del new_list[i]
-    return ("".join(new_list))
+    new_list = my_string
+    new_list = new_list.translate({ord("c"): None})
+    new_list = new_list.translate({ord("C"): None})
+    return (new_list)
