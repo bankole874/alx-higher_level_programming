@@ -2,6 +2,6 @@
 def multiple_returns(sentence):
     if (sentence):
         size = len(sentence)
-        lett = sentence[0]
-        return((size, lett))
+        letter1 = sentence[0]
+        return ((size, letter1))
     return ((0, None))
