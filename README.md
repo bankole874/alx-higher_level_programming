@@ -1,3 +1,5 @@
 - 0x00-python-hello_world
 - 0x01. Python - if/else, loops, functions
 - 0x03-python-data_structures
+- 0x04-python-more_data_structures
+- 0x05. Python - Exceptions
