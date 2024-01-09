@@ -4,7 +4,7 @@
 
 class BaseGeometry():
 
-
+    """ function area """
     def area(self):
         """
         Raises an Excpetion because area is not implemented
