@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ from int """
 
+
 class MyInt(int):
 
     def __eq__(self, other):
