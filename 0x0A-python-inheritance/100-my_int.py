@@ -1,10 +1,7 @@
 #!/usr/bin/python3
-
+""" from int """
 
 class MyInt(int):
-    """
-    From original int
-    """
 
     def __eq__(self, other):
         return (int(self) != other)
