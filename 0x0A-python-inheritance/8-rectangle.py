@@ -7,6 +7,7 @@ Rectangle class inheirts from BaseGeometry.
 
 
 class Rectangle(BaseGeometry):
+
     """ Constructor method """
     def __init__(self, width, height):
 
