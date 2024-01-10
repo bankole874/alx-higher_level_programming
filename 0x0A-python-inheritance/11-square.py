@@ -1,22 +1,19 @@
 #!/usr/bin/python3
+""" import 9-rectangle """
 Rectangle = __import__('9-rectangle').Rectangle
+
+""" Square class inheirts from Rectangle. """
 
 
 class Square(Rectangle):
-    """
-    Square class inheirts from Rectangle.
-    """
 
+    """ Constructor method """
     def __init__(self, size):
-        """
-        Constructor method
-        """
+
         self.integer_validator("size", size)
         super().__init__(size, size)
         self.__size = size
 
+    """ Returns Square description """
     def __str__(self):
-        """
-        Returns Square description
-        """
         return ("[Square] {}/{}".format(self.__size, self.__size))
