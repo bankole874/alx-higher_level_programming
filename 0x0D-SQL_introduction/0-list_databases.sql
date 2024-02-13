@@ -1,3 +1,3 @@
 -- show available databases
 -- yes databases
-SHOW DATABASE;
+SHOW DATABASES;
