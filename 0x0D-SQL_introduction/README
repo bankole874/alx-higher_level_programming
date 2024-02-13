@@ -1,6 +1,7 @@
 # 🦾 0x07. Networking basics 0
 
 ## 🛠 To Learn
+
 - What’s a database
 - What’s a relational database
 - What does SQL stand for
@@ -14,6 +15,7 @@
 - How to use MySQL functions
 
 ## 👨‍💻 Tasks and Description
+
 | Tasks             | Description                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 |0. List databases|Write a script that lists all databases of your MySQL server.|
