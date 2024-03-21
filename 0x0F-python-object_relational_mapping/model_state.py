@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # Defines a State model.
 # Inherits from SQLAlchemy Base and links to the MySQL table states.
@@ -19,4 +18,3 @@ class State(Base):
     __tablename__ = "states"
     id = Column(Integer, primary_key=True)
     name = Column(String(128), nullable=False)
-
