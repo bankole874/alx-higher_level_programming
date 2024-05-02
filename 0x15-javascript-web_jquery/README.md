@@ -58,11 +58,3 @@ At the end of this project, I was able to solve these questions:
 - jQuery 3X
 - [what is javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-### Try It On Your Machine :computer:	
-```bash
-$ git clone https://github.com/sammykingx/alx-higher_level_programming.git
-
-$ cd 0x15-javascript-web_jquery
-
-$ ./main_files/FILENAME.html
-```
